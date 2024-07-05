@@ -1,6 +1,6 @@
-# Demo Wallet
+# Dimo Wallet
 
-Demo Wallet is a secure and user-friendly Flutter application designed for managing digital assets on the Polygon network. It allows users to create wallets, securely transfer tokens, and monitor transaction activities effortlessly.
+Dimo Wallet is a secure and user-friendly Flutter application designed for managing digital assets on the Polygon network. It allows users to create wallets, securely transfer tokens, and monitor transaction activities effortlessly.
 
 ## Features
 - **Wallet Creation:** Easily create and manage wallets with customizable names and passcodes.
@@ -10,7 +10,7 @@ Demo Wallet is a secure and user-friendly Flutter application designed for manag
 
 ## Getting Started
 
-To get started with Demo Wallet, follow these steps:
+To get started with Dimo Wallet, follow these steps:
 1. Clone the repository.
 2. Set up dependencies by running `flutter pub get`.
 3. Run the app on your preferred emulator or physical device.
