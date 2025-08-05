@@ -14,11 +14,18 @@
 
 ### 📱 App Preview
 
-![Wallet Home](assets/screenshots/ss1.png)
+![Wallet Home](assets/1.jpeg)
 *Wallet dashboard with balance overview and recent transactions*
 
-![Send Tokens](assets/screenshots/ss2.png)
+![Send Tokens](assets/3.jpeg)
 *Token transfer screen with passcode verification*
+
+![Wallet History](assets/3.jpeg)
+*Detailed view of past transactions and wallet activity logs*
+
+![About Dialog](assets/4.jpeg)
+Displays app information and credits the developer (Abhijeet Khare)
+
 
 ---
 
