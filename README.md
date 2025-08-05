@@ -12,22 +12,32 @@
 * **Balance Tracking** – Monitor real-time wallet balances and view full transaction history.
 * **Responsive UI** – Built with **Flutter** and **GetX** for a smooth, intuitive user experience.
 
-### 📱 App Preview
+## 📱 App Preview
 
-![Wallet Home](assets/1.jpeg)
-*Wallet dashboard with balance overview and recent transactions*
+### 🏠 Wallet Home
+<p align="">
+  <img src="assets/1.jpeg" alt="Wallet Home" width="300"><br>
+  <em>Home screen showing wallet balance and recent transactions</em>
+</p>
 
-![Send Tokens](assets/3.jpeg)
-*Token transfer screen with passcode verification*
+### 💸 Send Tokens
+<p align="">
+  <img src="assets/3.jpeg" alt="Send Tokens" width="300"><br>
+  <em>Send screen with passcode-verified token transfers</em>
+</p>
 
-![Wallet History](assets/3.jpeg)
-*Detailed view of past transactions and wallet activity logs*
+### 📜 Wallet History
+<p align="">
+  <img src="assets/2.jpeg" alt="Wallet History" width="300"><br>
+  <em>Transaction history showing complete token activity on the Polygon network</em>
+</p>
 
-![About Dialog](assets/4.jpeg)
-Displays app information and credits the developer (Abhijeet Khare)
+### ℹ️ About
+<p align="">
+  <img src="assets/4.jpeg" alt="About Dialog" width="300"><br>
+  <em>About section with app version and developer info (Abhijeet Khare)</em>
+</p>
 
-
----
 
 ## 🚀 Getting Started
 
